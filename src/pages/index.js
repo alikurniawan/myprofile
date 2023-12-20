@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div>
-          ALI KURNAIWAN
+          ALI KURNIAWAN
         </div>
       </main>
     </>
